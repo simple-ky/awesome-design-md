@@ -1,0 +1,10 @@
+{
+  "merchant":      "restoran-kum-heng",
+  "template":      "starbucks",
+  "design_md":     "design-md/starbucks/DESIGN.md",
+  "override":      { "primary": "#8B0000", "primary_dark": "#5C0000", "accent": "#D4AF37" },
+  "generated":     "2026-05-16",
+  "spec":          "docs/missions/mission-b-implementation.md",
+  "phase":         "preview (no CLI — direct output)",
+  "font_sub":      "Manrope replaces SoDoSans (proprietary); Noto Sans TC for zh fallback"
+}
